@@ -1,0 +1,124 @@
+# ==============================
+# 🌵 Cyber Saguaro Repo .gitignore
+# Covers Python, C/C++, Assembly, Java, Web, Shell, PowerShell, Rust, Go, PHP
+# ==============================
+
+# --- OS / System ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Logs ---
+*.log
+
+# --- Environment files ---
+.env
+*.env
+
+# --- General temp ---
+*~
+*.swp
+*.swo
+
+# ==============================
+# 🐍 Python
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# ==============================
+# ☕ Java
+# ==============================
+*.class
+*.jar
+*.war
+*.ear
+/out/
+
+# ==============================
+# 🌐 Web / Node.js
+# ==============================
+node_modules/
+npm-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# ==============================
+# 🖥️ C / C++
+# ==============================
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+/build/
+
+# ==============================
+# 🛠️ Assembly
+# ==============================
+*.o
+*.obj
+*.bin
+*.exe
+*.out
+
+# ==============================
+# 🐚 Shell / PowerShell
+# ==============================
+# No special compiled files, just temp/junk
+*.tmp
+
+# ==============================
+# 🦀 Rust
+# ==============================
+/target/
+**/*.rs.bk
+
+# ==============================
+# 🐹 Go
+# ==============================
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+
+# Output of go build
+*.out
+
+# Dependency directories
+/vendor/
+
+# Go workspace file
+go.work
+
+# ==============================
+# 🐘 PHP
+# ==============================
+# Composer dependencies
+/vendor/
+
+# Composer lock file (optional, keep if you want reproducibility)
+composer.lock
+
+# PHPStorm / IDE stuff
+.phpunit.result.cache
+.idea/
