@@ -1,7 +1,6 @@
 <img src="https://github.com/user-attachments/assets/65499d15-c8fa-46ea-8c85-28aa91d8ab11" 
      alt="emoji7" width="110" height="93" align="left" style="margin-right:15px;" />Welcome to the official **Cyber Saguaro's Programming Repository**!  
-This repo is a central hub for our coding projects, organized by programming language and category.  
-Here, we share our **scripts, projects, and tools** to grow as developers and support each other in cybersecurity and programming.
+This repo is a central hub for our coding projects, organized by programming language and category. Here, we share our **scripts, projects, and tools** to grow as developers and support each other in cybersecurity and programming.
 
 ---
 
