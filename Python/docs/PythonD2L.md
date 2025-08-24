@@ -1,3 +1,2 @@
 - Training available from Microsoft Academy - [D2L Link](https://d2l.arizona.edu/d2l/le/content/1153732/viewContent/12452269/View)
 - TCM Security - Python for Beginners - [YouTube Link](https://www.youtube.com/watch?v=7utwZYKweho)
-- [Python Truth Tables.pdf](https://github.com/user-attachments/files/21956108/Python.Truth.Tables.pdf)
